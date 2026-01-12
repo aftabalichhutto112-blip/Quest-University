@@ -1,0 +1,21 @@
+
+/* Wrapper containing all divs */
+#wrapper {
+	width:960px;
+	
+	margin:0 auto;
+	padding:5px 0 0 0;
+	
+	text-align:left;
+	
+	background-color:#fff;
+	
+	border-width:1px;
+	border-style:solid;
+	border-color:#ccc;
+	
+	border-radius:20px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+}
+
